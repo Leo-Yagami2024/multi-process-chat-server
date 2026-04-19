@@ -1,0 +1,15 @@
+*.out
+*.exe
+*.o
+server
+client
+
+# build
+build/
+bin/
+
+# OS files
+.DS_Store
+
+# editor
+.vscode/
