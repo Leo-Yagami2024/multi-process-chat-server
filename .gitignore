@@ -1,8 +1,7 @@
 *.out
-*.exe
-*.o
-server
-client
+*.ex
+basics
+
 
 # build
 build/
