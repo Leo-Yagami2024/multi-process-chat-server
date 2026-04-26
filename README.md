@@ -29,7 +29,7 @@ A terminal-based chat server built in C from scratch — no frameworks, no short
   [18:49:23] LOGIN: Sam (id 3)
   [18:49:32] Sam joined [room1]
   [18:52:37] MSG [room1] Leo: Sam, Saraya was asking abt you yesterday!
-  [18:53:21] MSG [room1] Sam: Hello Saraya! How are you?? I miss you
+  [18:53:21] MSG [room1] Sam: Hello Saraya! How are you??
 ───────────────────────────────────────────────────
 ```
 
