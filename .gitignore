@@ -1,14 +1,20 @@
-*.out
-*.ex
-basics
+# database
+authenticate.db
 
+# certificates and keys
+certs/server.crt
+certs/server.key
+certs/
 
-# build
-build/
-bin/
+# compiled binaries
+bin/server
+bin/client
 
-# OS files
-.DS_Store
+# object files
+*.o
+*.exe
 
-# editor
+# editor artifacts
 .vscode/
+*.swp
+*~
