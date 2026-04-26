@@ -180,15 +180,7 @@ Bye                    — disconnect cleanly
 
 ---
 
-## Roadmap
 
-- [ ] Password hashing with `bcrypt`
-- [ ] `/list` command — show online users by name
-- [ ] Dead client cleanup from server's client list
-- [ ] CA-signed certificates
-- [ ] Username-based private messaging instead of client ID
-
----
 
 ## Author
 
